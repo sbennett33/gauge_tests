@@ -1,0 +1,4 @@
+AUTH_BASE_URL = # base url for ryath
+AUTH_AUDIENCE = # auth0 audience
+CLIENT_ID = # auth0 client id
+CLIENT_SECRET = # auth0 client secret
